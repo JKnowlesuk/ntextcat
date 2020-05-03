@@ -19,6 +19,7 @@
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
     <IncludeSource>true</IncludeSource>
     <RepositoryUrl>https://github.com/ivanakcheurov/ntextcat</RepositoryUrl>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">

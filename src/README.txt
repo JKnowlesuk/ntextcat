@@ -23,7 +23,7 @@ Recommended input: snippet of text with at least 5 words.
 
 Features:
 ---------
-* .Net Framework 4.0 support
+* .Net Standard 2.0 support
 * Should be compatible with Mono 2.10 but hasn't been tested in this release.
 * Pure .Net application (C#).
 * SQL-CLR integration (temporarily unavailable, expecting to restore it in 0.2.2)
